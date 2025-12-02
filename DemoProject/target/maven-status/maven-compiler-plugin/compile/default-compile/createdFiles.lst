@@ -1,0 +1,8 @@
+utilities\ExcelUtilities.class
+utilities\FileUploadUtilities.class
+utilities\ScreenshotUtilities.class
+pages\LoginPage.class
+utilities\ExtentReportUtility.class
+utilities\PageUtilities.class
+constant\Constant.class
+pages\ManageNewsPage.class
